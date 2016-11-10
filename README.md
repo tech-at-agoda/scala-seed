@@ -18,6 +18,7 @@ This seed is clean project to run Scala Workshop.
 
 4. Build
 ```
+/> cd $ROOT_PROJECT
 /> sbt compile
 ```
 
